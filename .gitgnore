@@ -1,0 +1,10 @@
+.idea
+.bin
+*.secret
+bin
+vendor
+go.sum
+go.work
+go.work.sum
+*.iml
+*.xml
